@@ -1,1 +1,7 @@
-# TPdbForumAPI_Baranov_APO21
+# Technopark DBMS project
+
+Для запуска:<br>
+
+mysql -u root -p < database_dump.sql<br>
+mvn clean install<br>
+./run.sh<br>
